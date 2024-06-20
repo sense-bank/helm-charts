@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-20T12:39:24.384557111+03:00"
+    description: A Helm chart for Kubernetes
+    digest: ed23c77bb8263aa26701cc6a14110208789fae53f475625d9a94edf634463f1f
+    name: nginx-test
+    type: application
+    urls:
+    - https://sense-bank.github.io/helm-charts/nginx-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-20T12:39:24.383730206+03:00"
